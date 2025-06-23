@@ -2,6 +2,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Marcela Eugenia</h2>
 
+Candidate to design manual test cases (Mobile Testing, API Testing, UI Testing) / QA Engineer Certification in progress / Android Studio, JIRA, Postma, JSON
+#### Debug Report
+[JIRA] (https://orbitarelatosvisuales.atlassian.net/jira/software/c/projects/S5/issues?jql=project%20%3D%20%22S5%22%20ORDER%20BY%20created%20DESC)
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
